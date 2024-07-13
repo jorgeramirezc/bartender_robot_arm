@@ -3,11 +3,11 @@ A Robot Bartender was implemented using a Ufactory Xarm robotic arm.
 
 # Robotic Bartender Station
 The station is divided into the following subsystems:
-a) Gripper mechanism.
-b) Ingredients dispenser.
-c) Ice  dispenser. 
-d) Mix in blender 
-e) Automatic washing.
+- a) Gripper mechanism.
+- b) Ingredients dispenser.
+- c) Ice  dispenser. 
+- d) Mix in blender 
+- e) Automatic washing.
 
 ![Subsystems](subsystem_render.png)  
  
