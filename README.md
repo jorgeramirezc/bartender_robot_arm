@@ -6,7 +6,7 @@ The station is divided into the following subsystems:
 - Gripper mechanism (a).
 - Ingredients dispenser (b).
 - Ice  dispenser (c).
-- Mix in blender (d).
+- Blender (d).
 - Automatic washing (e).
 
 ![Subsystems](subsystem_render.png)  
